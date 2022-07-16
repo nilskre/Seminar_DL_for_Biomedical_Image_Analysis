@@ -1,0 +1,12 @@
+\BOOKMARK [1][]{section.3}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.4}{2 Related Work}{}% 2
+\BOOKMARK [1][]{section.5}{3 Approach}{}% 3
+\BOOKMARK [2][]{subsection.6}{3.1 Experiment pipeline}{section.5}% 4
+\BOOKMARK [2][]{subsection.8}{3.2 Network architecture}{section.5}% 5
+\BOOKMARK [3][]{subsubsection.10}{3.2.1 Graph convolutional layer}{subsection.8}% 6
+\BOOKMARK [3][]{subsubsection.17}{3.2.2 Graph pooling layer}{subsection.8}% 7
+\BOOKMARK [2][]{subsection.19}{3.3 Training process: loss functions}{section.5}% 8
+\BOOKMARK [1][]{section.25}{4 Experiments and results}{}% 9
+\BOOKMARK [1][]{section.27}{5 Discussion}{}% 10
+\BOOKMARK [1][]{section.28}{6 Conclusion}{}% 11
+\BOOKMARK [1][]{section.29}{7 References}{}% 12

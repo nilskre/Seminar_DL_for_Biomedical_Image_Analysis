@@ -1,0 +1,1768 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{10.1001/jamapsychiatry.2013.3469}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b82c7ebd79f676fa8296a298e9aab3d8}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Justin\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=7acca606d249f24feb97a01f0cb5bcfc}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Avram\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2d5dfc0dc031b202689a5b783beb84da}{%
+           family={Masters},
+           familyi={M\bibinitperiod},
+           given={Grace\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=aa64e3733290ac739740c496b4be259e}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={B.\bibnamedelimi T.\bibnamedelimi Thomas},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=93e6c4d383f7a9949c6e85c74203d42a}{%
+           family={Krienen},
+           familyi={K\bibinitperiod},
+           given={Fenna},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3b7d6a2b279db45f0df8458b63857498}{%
+           family={Buckner},
+           familyi={B\bibinitperiod},
+           given={Randy\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=efd55f98d10d87fa52da2a6a8c5802e3}{%
+           family={Öngür},
+           familyi={Ö\bibinitperiod},
+           given={Dost},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1ffd784b9ec5e581194e27c0a0af0aa}
+      \strng{fullhash}{1eb5cbdae9d9fd76db70fc2bf27ca803}
+      \strng{bibnamehash}{a1ffd784b9ec5e581194e27c0a0af0aa}
+      \strng{authorbibnamehash}{a1ffd784b9ec5e581194e27c0a0af0aa}
+      \strng{authornamehash}{a1ffd784b9ec5e581194e27c0a0af0aa}
+      \strng{authorfullhash}{1eb5cbdae9d9fd76db70fc2bf27ca803}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Psychotic disorders (including schizophrenia, schizoaffective disorder, and psychotic bipolar disorder) are devastating illnesses characterized by breakdown in the integration of information processing. Recent advances in neuroimaging allow for the estimation of brain networks on the basis of intrinsic functional connectivity, but the specific network abnormalities in psychotic disorders are poorly understood.To compare intrinsic functional connectivity across the cerebral cortex in patients with schizophrenia spectrum disorders or psychotic bipolar disorder and healthy controls.We studied 100 patients from an academic psychiatric hospital (28 patients with schizophrenia, 32 patients with schizoaffective disorder, and 40 patients with bipolar disorder with psychosis) and 100 healthy controls matched for age, sex, race, handedness, and scan quality from December 2009 to October 2011.Functional connectivity profiles across 122 regions that covered the entire cerebral cortex.Relative to the healthy controls, individuals with a psychotic illness had disruption across several brain networks, with preferential reductions in functional connectivity within the frontoparietal control network (P \&lt; .05, corrected for family-wise error rate). This functionally defined network includes portions of the dorsolateral prefrontal cortex, posteromedial prefrontal cortex, lateral parietal cortex, and posterior temporal cortex. This effect was seen across diagnoses and persisted after matching patients and controls on the basis of scan quality.Our study results support the view that cortical information processing is disrupted in psychosis and provides new evidence that disruptions within the frontoparietal control network may be a shared feature across both schizophrenia and affective psychosis.}
+      \field{annotation}{tex.}
+      \field{issn}{2168-622X}
+      \field{journaltitle}{JAMA Psychiatry}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Disruption of Cortical Association Networks in Schizophrenia and Psychotic Bipolar Disorder}
+      \field{volume}{71}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1001/jamapsychiatry.2013.3469
+      \endverb
+    \endentry
+    \entry{BRENNAN201927}{article}{}
+      \name{author}{13}{}{%
+        {{hash=06ac56b1751879684c2506a76205d295}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Brian\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e19fe5f8fd8ad235afbf2fd8ad00e962}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Danhong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=056499901b12b2b739206170c822cdc4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Meiling},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5702b9eb4446a4e9171ea7ec065ae553}{%
+           family={Perriello},
+           familyi={P\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1cc75c0a26dac8c720eacadf7a2b09ad}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Jianxun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ece71b17e265f053dd792c2fa132e87f}{%
+           family={Elias},
+           familyi={E\bibinitperiod},
+           given={Jason\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b010574f1e350ebb359e86df0ff892ba}{%
+           family={Van\bibnamedelima Kirk},
+           familyi={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Nathaniel\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=54258abad7ec4b2850b7481bce17a352}{%
+           family={Krompinger},
+           familyi={K\bibinitperiod},
+           given={Jason\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a610944769df66a8274f9f0c66b376de}{%
+           family={Pope},
+           familyi={P\bibinitperiod},
+           given={Harrison\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=6e29890f109172b4731aa4cf0e2e3515}{%
+           family={Haber},
+           familyi={H\bibinitperiod},
+           given={Suzanne\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=0ea5c2f9af99b32a476de0c81f73ba67}{%
+           family={Rauch},
+           familyi={R\bibinitperiod},
+           given={Scott\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b82c7ebd79f676fa8296a298e9aab3d8}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Justin\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9f9d3429199dec16c93da5a836de597e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hesheng},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{00214c3025874284206d4b45318b651d}
+      \strng{fullhash}{f1578a77db2fda28343f3a8be67dff3f}
+      \strng{bibnamehash}{00214c3025874284206d4b45318b651d}
+      \strng{authorbibnamehash}{00214c3025874284206d4b45318b651d}
+      \strng{authornamehash}{00214c3025874284206d4b45318b651d}
+      \strng{authorfullhash}{f1578a77db2fda28343f3a8be67dff3f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background Existing functional connectivity studies of obsessive-compulsive disorder (OCD) support a model of circuit dysfunction. However, these group-level observations have failed to yield neuroimaging biomarkers sufficient to serve as a test for the OCD diagnosis, predict current or future symptoms, or predict treatment response, perhaps because these studies failed to account for the substantial intersubject variability in structural and functional brain organization. Methods We used functional regions, localized in each of 41 individual OCD patients, to identify cortical connectivity biomarkers of both global and dimension-specific symptom severity and to detect functional connections that track changes in symptom severity following intensive residential treatment. Results Global OCD symptom severity was directly linked to dysconnectivity between large-scale intrinsic brain networks---particularly among the dorsal attention, default, and frontoparietal networks. Changes within a subset of connections among these networks were associated with symptom resolution. Additionally, distinct and nonoverlapping cortical connectivity biomarkers were identified that were significantly associated with the severity of contamination/washing and responsibility for harm/checking symptoms, highlighting the contribution of dissociable neural networks to specific OCD symptom dimensions. By contrast, when we defined functional regions conventionally, using a population-level brain atlas, we could no longer identify connectivity biomarkers of severity or improvement for any of the symptom dimensions. Conclusions Our findings would seem to encourage the use of individual-level approaches to connectivity analyses to better delineate the cortical and subcortical networks underlying symptom severity and improvement at the dimensional level in OCD patients.}
+      \field{issn}{2451-9022}
+      \field{journaltitle}{Biological Psychiatry: Cognitive Neuroscience and Neuroimaging}
+      \field{number}{1}
+      \field{title}{Use of an Individual-Level Approach to Identify Cortical Connectivity Biomarkers in Obsessive-Compulsive Disorder}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{27\bibrangedash 38}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.bpsc.2018.07.014
+      \endverb
+      \keyw{Biomarker,Connectivity,Dimension,fMRI,Obsessive-compulsive disorder,OCD}
+    \endentry
+    \entry{https://doi.org/10.48550/arxiv.1811.01287}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=e53fbfee8a335e019956357cbf7731d5}{%
+           family={Cangea},
+           familyi={C\bibinitperiod},
+           given={C\u{a}t\u{a}lina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b1208a71c9b067bcef8fb29c15a09b5d}{%
+           family={Veli\v{c}kovi\'{c}},
+           familyi={V\bibinitperiod},
+           given={Petar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bfeecd073fb8bd08d93097f9ad0c12ab}{%
+           family={Jovanovi\'{c}},
+           familyi={J\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=92f0e61247770d3248674f4496c148e3}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b1dc447055a5e64105a2984bf8306851}{%
+           family={Li\`{o}},
+           familyi={L\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{0d2a4eee915a3b7e680a3d65c48abf96}
+      \strng{fullhash}{729c7d5775fd323c6f8b495f3d2b893e}
+      \strng{bibnamehash}{0d2a4eee915a3b7e680a3d65c48abf96}
+      \strng{authorbibnamehash}{0d2a4eee915a3b7e680a3d65c48abf96}
+      \strng{authornamehash}{0d2a4eee915a3b7e680a3d65c48abf96}
+      \strng{authorfullhash}{729c7d5775fd323c6f8b495f3d2b893e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Towards Sparse Hierarchical Graph Classifiers}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1811.01287
+      \endverb
+      \keyw{Artificial Intelligence (cs.AI),FOS: Computer and information sciences,Machine Learning (cs.LG),Machine Learning (stat.ML),Social and Information Networks (cs.SI)}
+    \endentry
+    \entry{pmlr-v97-gao19a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b4b39c55ab69acbbf0f637de5d6db332}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Hongyang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2c7d0ae620be1d0fb4be0eeee657b8d3}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Shuiwang},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=050c0df95e5eb5c3218fdd148d0e17a4}{%
+           family={Chaudhuri},
+           familyi={C\bibinitperiod},
+           given={Kamalika},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bd2be300d445e9f6db7808f9533e66cb}{%
+           family={Salakhutdinov},
+           familyi={S\bibinitperiod},
+           given={Ruslan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{fullhash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{bibnamehash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{authorbibnamehash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{authornamehash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{authorfullhash}{a189cd61f3aa808f4bdb8beaaf278a94}
+      \strng{editorbibnamehash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \strng{editornamehash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \strng{editorfullhash}{ddb716c8c736fb868f09f38a0f4dd1ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We consider the problem of representation learning for graph data. Convolutional neural networks can naturally operate on images, but have significant challenges in dealing with graph data. Given images are special cases of graphs with nodes lie on 2D lattices, graph embedding tasks have a natural correspondence with image pixel-wise prediction tasks such as segmentation. While encoder-decoder architectures like U-Nets have been successfully applied on many image pixel-wise prediction tasks, similar methods are lacking for graph data. This is due to the fact that pooling and up-sampling operations are not natural on graph data. To address these challenges, we propose novel graph pooling (gPool) and unpooling (gUnpool) operations in this work. The gPool layer adaptively selects some nodes to form a smaller graph based on their scalar projection values on a trainable projection vector. We further propose the gUnpool layer as the inverse operation of the gPool layer. The gUnpool layer restores the graph into its original structure using the position information of nodes selected in the corresponding gPool layer. Based on our proposed gPool and gUnpool layers, we develop an encoder-decoder model on graph, known as the graph U-Nets. Our experimental results on node classification and graph classification tasks demonstrate that our methods achieve consistently better performance than previous models.}
+      \field{booktitle}{Proceedings of the 36th International Conference on Machine Learning}
+      \field{day}{9}
+      \field{endday}{15}
+      \field{endmonth}{6}
+      \field{endyear}{2019}
+      \field{month}{6}
+      \field{series}{Proceedings of Machine Learning Research}
+      \field{title}{Graph {{U-nets}}}
+      \field{volume}{97}
+      \field{year}{2019}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \field{pages}{2083\bibrangedash 2092}
+      \range{pages}{10}
+      \verb{file}
+      \verb http://proceedings.mlr.press/v97/gao19a/gao19a.pdf
+      \endverb
+    \endentry
+    \entry{gaoSexDifferencesCerebellum2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9c1ecb1f7c47cf02e9e994296746328c}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0ca96a9b546781174b6ed413fd56cbab}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eba55ce3c9270ab7b2bc2e4fd6d280be}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=263166d75e441619eeaf1567f4d5028f}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Tingting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a16fb9dacc7b627c4e01f7d3748ef68e}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Qiaolan},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{804dbf5c99c70abac14614adff205b1a}
+      \strng{fullhash}{655552be7adeff14b81cdd0da8e109f5}
+      \strng{bibnamehash}{804dbf5c99c70abac14614adff205b1a}
+      \strng{authorbibnamehash}{804dbf5c99c70abac14614adff205b1a}
+      \strng{authornamehash}{804dbf5c99c70abac14614adff205b1a}
+      \strng{authorfullhash}{655552be7adeff14b81cdd0da8e109f5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work aims to exploit a novel graph neural network to predict the sex of the brain topological network, and to find the sex differences in the cerebrum and cerebellum. A two-branch multi-scale graph convolutional network (TMGCN) is designed to analyze the sex differences of the brain. Two complementary templates are used to construct cerebrum and cerebellum networks, respectively, followed by a two-branch sub-network with multi-scale filters and a trainable weighted fusion strategy for the final prediction. Finally, a trainable graph topk-pooling layer is utilized in our model to visualize key brain regions relevant to the prediction. The proposed TMGCN achieves a prediction accuracy of 84.48\%. In the cerebellum, the bilateral Crus I--II, lobule VI and VIIb, and the posterior vermis (VI--X) are discriminative for this task. As for the cerebrum, the discriminative brain regions consist of the bilateral inferior temporal gyrus, the bilateral fusiform gyrus, the bilateral parahippocampal gyrus, the bilateral cingulate gyrus, the bilateral medial ventral occipital cortex, the bilateral lateral occipital cortex, the bilateral amygdala, and the bilateral hippocampus. This study tackles the sex prediction problem from a more comprehensive view, and may provide the resting-state fMRI evidence for further study of sex differences in the cerebellum and cerebrum.}
+      \field{day}{1}
+      \field{issn}{1867-1462}
+      \field{journaltitle}{Interdisciplinary Sciences: Computational Life Sciences}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shortjournal}{Interdisciplinary Sciences: Computational Life Sciences}
+      \field{title}{Sex {{Differences}} of {{Cerebellum}} and {{Cerebrum}}: {{Evidence}} from {{Graph Convolutional Network}}}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{532\bibrangedash 544}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s12539-021-00498-5
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-20351-1_7}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4d3f462de75559be47d0f5bd00b774d4}{%
+           family={Gopinath},
+           familyi={G\bibinitperiod},
+           given={Karthik},
+           giveni={K\bibinitperiod}}}%
+        {{hash=123ea28f5bf47452f84a35dc5f0022c4}{%
+           family={Desrosiers},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1dc44d99413cdd8ced1338aa5e721d0a}{%
+           family={Lombaert},
+           familyi={L\bibinitperiod},
+           given={Herve},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=9d1ce87a9472f31f2fd0db5fd7016ec6}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Albert\bibnamedelimb C.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dfc9247080478babae33740cfb0199db}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d0865af6e0989cf8a5768a668f097b23}{%
+           family={Yushkevich},
+           familyi={Y\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=94c1ece62bae5e12d7908b47c599af0e}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Siqi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{fullhash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{bibnamehash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{authorbibnamehash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{authornamehash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{authorfullhash}{e4960c34d91c6141990c9b2758b4e701}
+      \strng{editorbibnamehash}{8d2055d60befa48f94354fd963612a57}
+      \strng{editornamehash}{8d2055d60befa48f94354fd963612a57}
+      \strng{editorfullhash}{76846fe12156bc72d366c6fce4edd5a8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learning surface data is fundamental to neuroscience. Recent advances has enabled the use of graph convolution filters directly within neural network frameworks. These filters are, however, constrained to a single fixed-graph structure. A pooling strategy remains yet to be defined for learning graph-node data in non-predefined graph structures. This lack of flexibility in graph convolutional architectures currently limits applications on brain surfaces. Graph structures and number of mesh nodes, indeed, highly vary across brain geometries. This paper proposes a new general graph-based pooling method for processing full-sized surface-valued data, as input layers of graph neural networks, towards predicting subject-based variables, as output information. This novel method learns an intrinsic aggregation of input graph nodes based on the geometry of the input graph. This is leveraged using recent advances in spectral graph alignment where the surface parameterization becomes common across multiple brain geometries. These novel adaptive intrinsic pooling layers enable the exploration of entirely new architectures of graph neural networks, which were previously constrained to one single fixed structure in a dataset. We demonstrate the flexibility of the new pooling strategy in two proof-of-concept applications, namely, the classification of disease stages and regression of subject's ages using directly the surface data from varying mesh geometries.}
+      \field{booktitle}{Information Processing in Medical Imaging}
+      \field{isbn}{978-3-030-20351-1}
+      \field{title}{Adaptive Graph Convolution Pooling for Brain Surface Analysis}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{86\bibrangedash 98}
+      \range{pages}{13}
+    \endentry
+    \entry{doi:10.1073/pnas.1010412107}{article}{}
+      \name{author}{16}{}{%
+        {{hash=f16b981b93a8fe020692aed65f3999d9}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Martha\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ac8bcd9d24881ade92cea74dc60c2185}{%
+           family={Hudac},
+           familyi={H\bibinitperiod},
+           given={Caitlin\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=eae9617970eff6c5ec13e039dbbfdc4e}{%
+           family={Shultz},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3f4335e288de6bb28f75739ac0ef1864}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Su\bibnamedelima Mei},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fda347757b766281e84f8143627942fb}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Celeste},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1b3dad087b42d6db691bcb30c1e062f5}{%
+           family={Berken},
+           familyi={B\bibinitperiod},
+           given={Allison\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f8eab24f4d31c62c54c23d6c1eb00f1f}{%
+           family={Deen},
+           familyi={D\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5be9382077c96c38a7a62ee6a42463cf}{%
+           family={Pitskel},
+           familyi={P\bibinitperiod},
+           given={Naomi\bibnamedelima B.},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=48e94b228bc5825fca44fc146ac67336}{%
+           family={Sugrue},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=17b1126603dff6a4e0144b367ec4a306}{%
+           family={Voos},
+           familyi={V\bibinitperiod},
+           given={Avery\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e99ac19149a87624bb730217fabf2449}{%
+           family={Saulnier},
+           familyi={S\bibinitperiod},
+           given={Celine\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4bf072c48493ecd41230768ed73e0543}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b046788afe0ea24e3599ecf9056f9229}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Julie\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=541a9cb2f5e358efd62913bdd89d98f0}{%
+           family={Klin},
+           familyi={K\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod}}}%
+        {{hash=82a2417ffd6263d3022401ec29347bdc}{%
+           family={Wyk},
+           familyi={W\bibinitperiod},
+           given={Brent\bibnamedelimb C.\bibnamedelimi Vander},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=f44e47b1f91a6c2edcde4581c4a38f9a}{%
+           family={{Kevin A. Pelphrey}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b4ad5cc079f76cf8c762ad4f84e0d3c}
+      \strng{fullhash}{c28209056daaa67d7d08489d0db3bcd6}
+      \strng{bibnamehash}{0b4ad5cc079f76cf8c762ad4f84e0d3c}
+      \strng{authorbibnamehash}{0b4ad5cc079f76cf8c762ad4f84e0d3c}
+      \strng{authornamehash}{0b4ad5cc079f76cf8c762ad4f84e0d3c}
+      \strng{authorfullhash}{c28209056daaa67d7d08489d0db3bcd6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Functional magnetic resonance imaging of brain responses to biological motion in children with autism spectrum disorder (ASD), unaffected siblings (US) of children with ASD, and typically developing (TD) children has revealed three types of neural signatures: (i) state activity, related to the state of having ASD that characterizes the nature of disruption in brain circuitry; (ii) trait activity, reflecting shared areas of dysfunction in US and children with ASD, thereby providing a promising neuroendophenotype to facilitate efforts to bridge genomic complexity and disorder heterogeneity; and (iii) compensatory activity, unique to US, suggesting a neural system--level mechanism by which US might compensate for an increased genetic risk for developing ASD. The distinct brain responses to biological motion exhibited by TD children and US are striking given the identical behavioral profile of these two groups. These findings offer far-reaching implications for our understanding of the neural systems underlying autism.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{49}
+      \field{title}{Neural Signatures of Autism}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{21223\bibrangedash 21228}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1010412107
+      \endverb
+      \verb{eprint}
+      \verb https://www.pnas.org/doi/pdf/10.1073/pnas.1010412107
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-20351-1_6}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=7ac363574cc651e6e158656ea2eb2826}{%
+           family={Kazi},
+           familyi={K\bibinitperiod},
+           given={Anees},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3c97a523777f2e7f5f60e0e91755be25}{%
+           family={Shekarforoush},
+           familyi={S\bibinitperiod},
+           given={Shayan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5741f049a426615b85d3eef2107f5632}{%
+           family={Arvind\bibnamedelima Krishna},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c7394ebeabd496304ffe6b9ec1f7e1c}{%
+           family={Burwinkel},
+           familyi={B\bibinitperiod},
+           given={Hendrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fcf9b449da2698cdd725bfa9c934008e}{%
+           family={Vivar},
+           familyi={V\bibinitperiod},
+           given={Gerome},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b5aa071562b36714381bf5ef080f6792}{%
+           family={Kortüm},
+           familyi={K\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9968bdbe4d7541070894f7956ba4bcc0}{%
+           family={Ahmadi},
+           familyi={A\bibinitperiod},
+           given={Seyed-Ahmad},
+           giveni={S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=2627324e68cc256cc982b8c816041c31}{%
+           family={Albarqouni},
+           familyi={A\bibinitperiod},
+           given={Shadi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c107bbd317cd780c2aa7006dbe61d83f}{%
+           family={Navab},
+           familyi={N\bibinitperiod},
+           given={Nassir},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=9d1ce87a9472f31f2fd0db5fd7016ec6}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Albert\bibnamedelimb C.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dfc9247080478babae33740cfb0199db}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d0865af6e0989cf8a5768a668f097b23}{%
+           family={Yushkevich},
+           familyi={Y\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=94c1ece62bae5e12d7908b47c599af0e}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Siqi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{bdfd072db71dd4b127a7b01153f96c9f}
+      \strng{fullhash}{85e64c584ed911dfc4dd8ca017c5f3a7}
+      \strng{bibnamehash}{bdfd072db71dd4b127a7b01153f96c9f}
+      \strng{authorbibnamehash}{bdfd072db71dd4b127a7b01153f96c9f}
+      \strng{authornamehash}{bdfd072db71dd4b127a7b01153f96c9f}
+      \strng{authorfullhash}{85e64c584ed911dfc4dd8ca017c5f3a7}
+      \strng{editorbibnamehash}{8d2055d60befa48f94354fd963612a57}
+      \strng{editornamehash}{8d2055d60befa48f94354fd963612a57}
+      \strng{editorfullhash}{76846fe12156bc72d366c6fce4edd5a8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Geometric deep learning provides a principled and versatile manner for integration of imaging and non-imaging modalities in the medical domain. Graph Convolutional Networks (GCNs) in particular have been explored on a wide variety of problems such as disease prediction, segmentation, and matrix completion by leveraging large, multi-modal datasets. In this paper, we introduce a new spectral domain architecture for deep learning on graphs for disease prediction. The novelty lies in defining geometric `inception modules' which are capable of capturing intra- and inter-graph structural heterogeneity during convolutions. We design filters with different kernel sizes to build our architecture. We show our disease prediction results on two publicly available datasets. Further, we provide insights on the behaviour of regular GCNs and our proposed model under varying input scenarios on simulated data.}
+      \field{booktitle}{Information Processing in Medical Imaging}
+      \field{isbn}{978-3-030-20351-1}
+      \field{title}{{{InceptionGCN}}: {{Receptive}} Field Aware Graph Convolutional Network for Disease Prediction}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{73\bibrangedash 85}
+      \range{pages}{13}
+    \endentry
+    \entry{10.3389/fnins.2020.00630}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7b31c9aa671cbb3a4feb9a4ce86d529d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Byung-Hoon},
+           giveni={B\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=46e01d5269b5f43fdfa820e9abd7449b}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Jong\bibnamedelima Chul},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \strng{fullhash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \strng{bibnamehash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \strng{authorbibnamehash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \strng{authornamehash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \strng{authorfullhash}{5d6070b06c9b21e9e4b2c05daa990c77}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graph neural networks (GNN) rely on graph operations that include neural network training for various graph related tasks. Recently, several attempts have been made to apply the GNNs to functional magnetic resonance image (fMRI) data. Despite recent progresses, a common limitation is its difficulty to explain the classification results in a neuroscientifically explainable way. Here, we develop a framework for analyzing the fMRI data using the Graph Isomorphism Network (GIN), which was recently proposed as a powerful GNN for graph classification. One of the important contributions of this paper is the observation that the GIN is a dual representation of convolutional neural network (CNN) in the graph space where the shift operation is defined using the adjacency matrix. This understanding enables us to exploit CNN-based saliency map techniques for the GNN, which we tailor to the proposed GIN with one-hot encoding, to visualize the important regions of the brain. We validate our proposed framework using large-scale resting-state fMRI (rs-fMRI) data for classifying the sex of the subject based on the graph structure of the brain. The experiment was consistent with our expectation such that the obtained saliency map show high correspondence with previous neuroimaging evidences related to sex differences.}
+      \field{issn}{1662-453X}
+      \field{journaltitle}{Frontiers in Neuroscience}
+      \field{title}{Understanding Graph Isomorphism Network for Rs-{{fMRI}} Functional Connectivity Analysis}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fnins.2020.00630
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-00931-1_24}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=37697d3d993a137f48bbe18ad1fa9cb3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c563e2c5a8daeb0b70738c0448db173c}{%
+           family={Dvornek},
+           familyi={D\bibinitperiod},
+           given={Nicha\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4ad42e5e5dc066db9684cae483b5d876}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Juntang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4bf072c48493ecd41230768ed73e0543}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=2413defb142650e8edf0bcd5608ab789}{%
+           family={Frangi},
+           familyi={F\bibinitperiod},
+           given={Alejandro\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=5453a61ff8b92c0abf2be4ab6013c641}{%
+           family={Schnabel},
+           familyi={S\bibinitperiod},
+           given={Julia\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9b3e5f4bb3bd53806daf0873ab42c7b7}{%
+           family={Davatzikos},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8e56e2b9fed37acfcb8511126e938492}{%
+           family={Alberola-L\'{o}pez},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a294f1df23750035bfc2492b17ff1d60}{%
+           family={Fichtinger},
+           familyi={F\bibinitperiod},
+           given={Gabor},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{fullhash}{91ede2504397a908348a0da507d65e25}
+      \strng{bibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorbibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authornamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorfullhash}{91ede2504397a908348a0da507d65e25}
+      \strng{editorbibnamehash}{18b3f694259f08f7fd2048c63a39bab3}
+      \strng{editornamehash}{18b3f694259f08f7fd2048c63a39bab3}
+      \strng{editorfullhash}{4f275bfe17826c74fc26e4f297b10d26}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder. Finding the biomarkers associated with ASD is extremely helpful to understand the underlying roots of the disorder and can lead to earlier diagnosis and more targeted treatment. Although Deep Neural Networks (DNNs) have been applied in functional magnetic resonance imaging (fMRI) to identify ASD, understanding the data driven computational decision making procedure has not been previously explored. Therefore, in this work, we address the problem of interpreting reliable biomarkers associated with identifying ASD; specifically, we propose a 2-stage method that classifies ASD and control subjects using fMRI images and interprets the saliency features activated by the classifier. First, we trained an accurate DNN classifier. Then, for detecting the biomarkers, different from the DNN visualization works in computer vision, we take advantage of the anatomical structure of brain fMRI and develop a frequency-normalized sampling method to corrupt images. Furthermore, in the ASD vs. control subjects classification scenario, we provide a new approach to detect and characterize important brain features into three categories. The biomarkers we found by the proposed method are robust and consistent with previous findings in the literature. We also validate the detected biomarkers by neurological function decoding and comparing with the DNN activation maps.}
+      \field{booktitle}{Medical Image Computing and Computer Assisted Intervention --{} {{MICCAI}} 2018}
+      \field{isbn}{978-3-030-00931-1}
+      \field{title}{Brain Biomarker Interpretation in {{ASD}} Using Deep Learning and {{fMRI}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{206\bibrangedash 214}
+      \range{pages}{9}
+    \endentry
+    \entry{LI2021102233}{article}{}
+      \name{author}{10}{}{%
+        {{hash=37697d3d993a137f48bbe18ad1fa9cb3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=11b6c8c17a7c72e4bb72ce8eb25fadd6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=52338bc587235d70bf0c552e16be82cf}{%
+           family={Dvornek},
+           familyi={D\bibinitperiod},
+           given={Nicha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4a4ea3ed05d6f715ee421625d118278d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Muhan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=87a29904145b3da300d70ddd3b5eaffa}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4ad42e5e5dc066db9684cae483b5d876}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Juntang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=61b3368e9b14975b96cfaf0e750cd447}{%
+           family={Scheinost},
+           familyi={S\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8e4eccef17cacd52453cc109b060cfd9}{%
+           family={Staib},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4bf072c48493ecd41230768ed73e0543}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{fullhash}{bc8aba990c7dd4e0528ff279fbb8c129}
+      \strng{bibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorbibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authornamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorfullhash}{bc8aba990c7dd4e0528ff279fbb8c129}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding which brain regions are related to a specific neurological disorder or cognitive stimuli has been an important area of neuroimaging research. We propose BrainGNN, a graph neural network (GNN) framework to analyze functional magnetic resonance images (fMRI) and discover neurological biomarkers. Considering the special property of brain graphs, we design novel ROI-aware graph convolutional (Ra-GConv) layers that leverage the topological and functional information of fMRI. Motivated by the need for transparency in medical image analysis, our BrainGNN contains ROI-selection pooling layers (R-pool) that highlight salient ROIs (nodes in the graph), so that we can infer which ROIs are important for prediction. Furthermore, we propose regularization terms---unit loss, topK pooling (TPK) loss and group-level consistency (GLC) loss---on pooling results to encourage reasonable ROI-selection and provide flexibility to encourage either fully individual- or patterns that agree with group-level data. We apply the BrainGNN framework on two independent fMRI datasets: an Autism Spectrum Disorder (ASD) fMRI dataset and data from the Human Connectome Project (HCP) 900 Subject Release. We investigate different choices of the hyper-parameters and show that BrainGNN outperforms the alternative fMRI image analysis methods in terms of four different evaluation metrics. The obtained community clustering and salient ROI detection results show a high correspondence with the previous neuroimaging-derived evidence of biomarkers for ASD and specific task states decoded for HCP. Our code is available at https://github.com/xxlya/BrainGNN\textsubscript{P}ytorch}
+      \field{issn}{1361-8415}
+      \field{journaltitle}{Medical Image Analysis}
+      \field{title}{{{BrainGNN}}: {{Interpretable}} Brain Graph Neural Network for {{fMRI}} Analysis}
+      \field{volume}{74}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{102233}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.media.2021.102233
+      \endverb
+      \keyw{ASD,Biomarker,fMRI,GNN}
+    \endentry
+    \entry{10.1007/978-3-030-32254-0_54}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=37697d3d993a137f48bbe18ad1fa9cb3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c563e2c5a8daeb0b70738c0448db173c}{%
+           family={Dvornek},
+           familyi={D\bibinitperiod},
+           given={Nicha\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=11b6c8c17a7c72e4bb72ce8eb25fadd6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4ad42e5e5dc066db9684cae483b5d876}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Juntang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4bf072c48493ecd41230768ed73e0543}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{8}{}{%
+        {{hash=4be3a7080769a01b5a9027ae92b8c440}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Dinggang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7faa75cd0a9341fee33d1761b2b44234}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tianming},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2e9e8ad6e5b81ddb8a49e01d8924307d}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Terry\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8e4eccef17cacd52453cc109b060cfd9}{%
+           family={Staib},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4470b51212e02d6d9992bacd48ee75df}{%
+           family={Essert},
+           familyi={E\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fb59119b1e852da0e1ae6ea7de32256e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b97a01ef9253fda170cb859e3263f3f3}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Pew-Thian},
+           giveni={P\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=31ee1db9c67b2817b746426d40e4c754}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{fullhash}{e123a62cbad7c88e628bb25d9e6e25e9}
+      \strng{bibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorbibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authornamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorfullhash}{e123a62cbad7c88e628bb25d9e6e25e9}
+      \strng{editorbibnamehash}{b85860514c80840f3f8b271de4f23b4e}
+      \strng{editornamehash}{b85860514c80840f3f8b271de4f23b4e}
+      \strng{editorfullhash}{37fb9bfd986d300c074cd4c377abaf1a}
+      \field{extraname}{3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Finding the biomarkers associated with ASD is helpful for understanding the underlying roots of the disorder and can lead to earlier diagnosis and more targeted treatment. A promising approach to identify biomarkers is using Graph Neural Networks (GNNs), which can be used to analyze graph structured data, i.e. brain networks constructed by fMRI. One way to interpret important features is through looking at how the classification probability changes if the features are occluded or replaced. The major limitation of this approach is that replacing values may change the distribution of the data and lead to serious errors. Therefore, we develop a 2-stage pipeline to eliminate the need to replace features for reliable biomarker interpretation. Specifically, we propose an inductive GNN to embed the graphs containing different properties of task-fMRI for identifying ASD and then discover the brain regions/sub-graphs used as evidence for the GNN classifier. We first show GNN can achieve high accuracy in identifying ASD. Next, we calculate the feature importance scores using GNN and compare the interpretation ability with Random Forest. Finally, we run with different atlases and parameters, proving the robustness of the proposed method. The detected biomarkers reveal their association with social behaviors and are consistent with those reported in the literature. We also show the potential of discovering new informative biomarkers. Our pipeline can be generalized to other graph feature importance interpretation problems.}
+      \field{booktitle}{Medical Image Computing and Computer Assisted Intervention --{} {{MICCAI}} 2019}
+      \field{isbn}{978-3-030-32254-0}
+      \field{title}{Graph Neural Network for Interpreting Task-{{fMRI}} Biomarkers}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{485\bibrangedash 493}
+      \range{pages}{9}
+    \endentry
+    \entry{10.1007/978-3-030-59728-3_61}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=37697d3d993a137f48bbe18ad1fa9cb3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=11b6c8c17a7c72e4bb72ce8eb25fadd6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c563e2c5a8daeb0b70738c0448db173c}{%
+           family={Dvornek},
+           familyi={D\bibinitperiod},
+           given={Nicha\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4a4ea3ed05d6f715ee421625d118278d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Muhan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4ad42e5e5dc066db9684cae483b5d876}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Juntang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4bf072c48493ecd41230768ed73e0543}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{fullhash}{c2f873404b4c7faf51635ae4e984f902}
+      \strng{bibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorbibnamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authornamehash}{0230945d28034c64ddd582f818b08ebd}
+      \strng{authorfullhash}{c2f873404b4c7faf51635ae4e984f902}
+      \field{extraname}{4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding how certain brain regions relate to a specific neurological disorder has been an important area of neuroimaging research. A promising approach to identify the salient regions is using Graph Neural Networks (GNNs), which can be used to analyze graph structured data, e.g. brain networks constructed by functional magnetic resonance imaging (fMRI). We propose an interpretable GNN framework with a novel salient region selection mechanism to determine neurological brain biomarkers associated with disorders. Specifically, we design novel regularized pooling layers that highlight salient regions of interests (ROIs) so that we can infer which ROIs are important to identify a certain disease based on the node pooling scores calculated by the pooling layers. Our proposed framework, Pooling Regularized-GNN (PR-GNN), encourages reasonable ROI-selection and provides flexibility to preserve either individual- or group-level patterns. We apply the PR-GNN framework on a Biopoint Autism Spectral Disorder (ASD) fMRI dataset. We investigate different choices of the hyperparameters and show that PR-GNN outperforms baseline methods in terms of classification accuracy. The salient ROI detection results show high correspondence with the previous neuroimaging-derived biomarkers for ASD.}
+      \field{booktitle}{Medical Image Computing and Computer Assisted Intervention --{} {{MICCAI}} 2020: 23rd International Conference, Lima, Peru, October 4--8, 2020, Proceedings, Part 7}
+      \field{isbn}{978-3-030-59727-6}
+      \field{pagetotal}{11}
+      \field{title}{Pooling Regularized Graph Neural Network for {{FMRI}} Biomarker Analysis}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{625\bibrangedash 635}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-3-030-59728-3_61
+      \endverb
+      \keyw{Autism,fMRI Biomarker,Graph neural network}
+    \endentry
+    \entry{LIN2022102430}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2e702b9eea03e8b239a8f3c5bacbdf95}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Qiu-Hua},
+           giveni={Q\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=3b0bc1877561173a244bdcebac335b3e}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Yan-Wei},
+           giveni={Y\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=e0547ba05f460a39f0d8a6cc3bfa2d1c}{%
+           family={Sui},
+           familyi={S\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=39b5dba2a7c3e77f209101c791add59d}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Wen-Da},
+           giveni={W\bibinithyphendelim D\bibinitperiod}}}%
+        {{hash=60522fcd881dd566e59c7b1a9382a995}{%
+           family={Zhuo},
+           familyi={Z\bibinitperiod},
+           given={Chuanjun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c7172dd45e3be68cbaaa4b3985f2e733}{%
+           family={Calhoun},
+           familyi={C\bibinitperiod},
+           given={Vince\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c378e0480d491fe05830cacf864e8654}
+      \strng{fullhash}{6c1048b8f18dbbdeb21c2b5778866a74}
+      \strng{bibnamehash}{c378e0480d491fe05830cacf864e8654}
+      \strng{authorbibnamehash}{c378e0480d491fe05830cacf864e8654}
+      \strng{authornamehash}{c378e0480d491fe05830cacf864e8654}
+      \strng{authorfullhash}{6c1048b8f18dbbdeb21c2b5778866a74}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Convolutional neural networks (CNNs) have shown promising results in classifying individuals with mental disorders such as schizophrenia using resting-state fMRI data. However, complex-valued fMRI data is rarely used since additional phase data introduces high-level noise though it is potentially useful information for the context of classification. As such, we propose to use spatial source phase (SSP) maps derived from complex-valued fMRI data as the CNN input. The SSP maps are not only less noisy, but also more sensitive to spatial activation changes caused by mental disorders than magnitude maps. We build a 3D-CNN framework with two convolutional layers (named SSPNet) to fully explore the 3D structure and voxel-level relationships from the SSP maps. Two interpretability modules, consisting of saliency map generation and gradient-weighted class activation mapping (Grad-CAM), are incorporated into the well-trained SSPNet to provide additional information helpful for understanding the output. Experimental results from classifying schizophrenia patients (SZs) and healthy controls (HCs) show that the proposed SSPNet significantly improved accuracy and AUC compared to CNN using magnitude maps extracted from either magnitude-only (by 23.4 and 23.6\% for DMN) or complex-valued fMRI data (by 10.6 and 5.8\% for DMN). SSPNet captured more prominent HC-SZ differences in saliency maps, and Grad-CAM localized all contributing brain regions with opposite strengths for HCs and SZs within SSP maps. These results indicate the potential of SSPNet as a sensitive tool that may be useful for the development of brain-based biomarkers of mental disorders.}
+      \field{issn}{1361-8415}
+      \field{journaltitle}{Medical Image Analysis}
+      \field{title}{{{SSPNet}}: {{An}} Interpretable {{3D-CNN}} for Classification of Schizophrenia Using Phase Maps of Resting-State Complex-Valued {{fMRI}} Data}
+      \field{volume}{79}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{102430}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.media.2022.102430
+      \endverb
+      \keyw{Complex-valued fMRI data,Convolutional neural network,Grad-CAM,Interpretability,Saliency map,Spatial source phase}
+    \endentry
+    \entry{MAHOWALD201674}{article}{}
+      \name{author}{2}{}{%
+        {{hash=693906dabc310955d8ac5372458350a5}{%
+           family={Mahowald},
+           familyi={M\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2883dcbe4a01bec0eb4f678cf7a6098a}{%
+           family={Fedorenko},
+           familyi={F\bibinitperiod},
+           given={Evelina},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{667943990159d71682064d87d72a5761}
+      \strng{fullhash}{667943990159d71682064d87d72a5761}
+      \strng{bibnamehash}{667943990159d71682064d87d72a5761}
+      \strng{authorbibnamehash}{667943990159d71682064d87d72a5761}
+      \strng{authornamehash}{667943990159d71682064d87d72a5761}
+      \strng{authorfullhash}{667943990159d71682064d87d72a5761}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The majority of functional neuroimaging investigations aim to characterize an average human brain. However, another important goal of cognitive neuroscience is to understand the ways in which individuals differ from one another and the significance of these differences. This latter goal is given special weight by the recent reconceptualization of neurological disorders where sharp boundaries are no longer drawn either between health and neuropsychiatric and neurodevelopmental disorders, or among different disorders (e.g., Insel et al., 2010). Consequently, even the variability in the healthy population can inform our understanding of brain disorders. However, because the use of functional neural markers is still in its infancy, no consensus presently exists about which measures (e.g., effect size?, extent of activation?, degree of lateralization?) are the best ones to use. We here attempt to address this question with respect to one large-scale neural system: the set of brain regions in the frontal and temporal cortices that jointly support high-level linguistic processing (e.g., Binder et al., 1997; Fedorenko, Hsieh, Nieto-Castanon, Whitfield-Gabrieli, \& Kanwisher, 2010). In particular, using data from 150 individuals all of whom had performed a language ``localizer'' task contrasting sentences and nonword sequences (Fedorenko et al., 2010), we: a) characterize the distributions of the values for four key neural measures of language activity (region effect sizes, region volumes, lateralization based on effect sizes, and lateralization based on volumes); b) test the reliability of these measures in a subset of 32 individuals who were scanned across two sessions; c) evaluate the relationship among the different regions of the language system; and d) evaluate the relationship among the different neural measures. Based on our results, we provide some recommendations for future studies of brain-behavior and brain-genes relationships. Although some of our conclusions are specific to the language system, others (e.g., the fact that effect-size-based measures tend to be more reliable than volume-based measures) are likely to generalize to the rest of the brain.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{title}{Reliable Individual-Level Neural Markers of High-Level Language Processing: {{A}} Necessary Precursor for Relating Neural Variability to Behavioral and Genetic Variability}
+      \field{volume}{139}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{74\bibrangedash 93}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2016.05.073
+      \endverb
+      \keyw{Individual differences,Language system,Neural markers of language activity,Reliability}
+    \endentry
+    \entry{10.1007/978-3-030-32391-2_2}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=7d875fac0924c644374bdbbaa86782d0}{%
+           family={Nandakumar},
+           familyi={N\bibinitperiod},
+           given={Naresh},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9c783eac955f9cc0dba8d1fd25900178}{%
+           family={Manzoor},
+           familyi={M\bibinitperiod},
+           given={Komal},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0ed71263654886d6fddb427da671d4c4}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Jay\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=25ca2a7d360d5e1bce56b3f07f9e090a}{%
+           family={Gujar},
+           familyi={G\bibinitperiod},
+           given={Sachin\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=64237d375bc66b55e4117e9da65439ca}{%
+           family={Sair},
+           familyi={S\bibinitperiod},
+           given={Haris\bibnamedelima I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=da111382d89695b691060c3592a4f427}{%
+           family={Venkataraman},
+           familyi={V\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=0fe65366d0078c9e556288940a34abdf}{%
+           family={Schirmer},
+           familyi={S\bibinitperiod},
+           given={Markus\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=da111382d89695b691060c3592a4f427}{%
+           family={Venkataraman},
+           familyi={V\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7161309c59ce984b2c896214ac352917}{%
+           family={Rekik},
+           familyi={R\bibinitperiod},
+           given={Islem},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5a25a6efc80704d566f6e74f2542b9c3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Minjeong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f3b64bbdf33b9a9266d78037903a2e3f}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Ai\bibnamedelima Wern},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{033520ad937868560f5adba1ac4909c8}
+      \strng{fullhash}{392cea33d441f4109a4fe82d48511568}
+      \strng{bibnamehash}{033520ad937868560f5adba1ac4909c8}
+      \strng{authorbibnamehash}{033520ad937868560f5adba1ac4909c8}
+      \strng{authornamehash}{033520ad937868560f5adba1ac4909c8}
+      \strng{authorfullhash}{392cea33d441f4109a4fe82d48511568}
+      \strng{editorbibnamehash}{1b28c1374ffdd7037799818c0f58d650}
+      \strng{editornamehash}{1b28c1374ffdd7037799818c0f58d650}
+      \strng{editorfullhash}{18c72ded7795de1975f4408418dfc7d9}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We develop a novel method to localize the language and motor areas of the eloquent cortex in brain tumor patients based on resting-state fMRI (rs-fMRI) connectivity. Our method leverages the representation power of convolutional neural networks through specialized filters that act topologically on the rs-fMRI connectivity data. This Graph Neural Network (GNN) classifies each parcel in the brain into eloquent cortex, tumor, or background gray matter, thus accommodating varying tumor characteristics across patients. Our loss function also reflects the large class-imbalance present in our data. We evaluate our GNN on rs-fMRI data from 60 brain tumor patients with different tumor sizes and locations. We use motor and language task fMRI for validation. Our model achieves better localization than linear SVM, random forest, and a multilayer perceptron architecture. Our GNN is able to correctly identify bilateral language areas in the brain even when trained on patients whose language network is lateralized to the left hemisphere.}
+      \field{booktitle}{Connectomics in {{NeuroImaging}}}
+      \field{isbn}{978-3-030-32391-2}
+      \field{title}{A Novel Graph Neural Network to Localize Eloquent Cortex in Brain Tumor Patients from Resting-State {{fMRI}} Connectivity}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{10\bibrangedash 20}
+      \range{pages}{11}
+    \endentry
+    \entry{PARISOT2018117}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ba6ac7dc34dcf08da0c9e59566714569}{%
+           family={Parisot},
+           familyi={P\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=92494c940bac5da1baad9aec805516a3}{%
+           family={Ktena},
+           familyi={K\bibinitperiod},
+           given={Sofia\bibnamedelima Ira},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=bb2d14170c9538d541dadf92f7fac293}{%
+           family={Ferrante},
+           familyi={F\bibinitperiod},
+           given={Enzo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f26fcb45daac7ff737b4600a846fc01}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2e1ef68d59d9336c5c1c97aeb204e96}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5bc19448e90c8f3e88e5fbd50f12ac15}{%
+           family={Glocker},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=92712fbc7c7c3c1daa0630f54b19b582}{%
+           family={Rueckert},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{09975face42b955561613a748ea22d4a}
+      \strng{fullhash}{826500cdef9a07d011666b219b8f87b3}
+      \strng{bibnamehash}{09975face42b955561613a748ea22d4a}
+      \strng{authorbibnamehash}{09975face42b955561613a748ea22d4a}
+      \strng{authornamehash}{09975face42b955561613a748ea22d4a}
+      \strng{authorfullhash}{826500cdef9a07d011666b219b8f87b3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graphs are widely used as a natural framework that captures interactions between individual elements represented as nodes in a graph. In medical applications, specifically, nodes can represent individuals within a potentially large population (patients or healthy controls) accompanied by a set of features, while the graph edges incorporate associations between subjects in an intuitive manner. This representation allows to incorporate the wealth of imaging and non-imaging information as well as individual subject features simultaneously in disease classification tasks. Previous graph-based approaches for supervised or unsupervised learning in the context of disease prediction solely focus on pairwise similarities between subjects, disregarding individual characteristics and features, or rather rely on subject-specific imaging feature vectors and fail to model interactions between them. In this paper, we present a thorough evaluation of a generic framework that leverages both imaging and non-imaging information and can be used for brain analysis in large populations. This framework exploits Graph Convolutional Networks (GCNs) and involves representing populations as a sparse graph, where its nodes are associated with imaging-based feature vectors, while phenotypic information is integrated as edge weights. The extensive evaluation explores the effect of each individual component of this framework on disease prediction performance and further compares it to different baselines. The framework performance is tested on two large datasets with diverse underlying data, ABIDE and ADNI, for the prediction of Autism Spectrum Disorder and conversion to Alzheimer's disease, respectively. Our analysis shows that our novel framework can improve over state-of-the-art results on both databases, with 70.4\% classification accuracy for ABIDE and 80.0\% for ADNI.}
+      \field{issn}{1361-8415}
+      \field{journaltitle}{Medical Image Analysis}
+      \field{title}{Disease Prediction Using Graph Convolutional Networks: {{Application}} to {{Autism Spectrum Disorder}} and {{Alzheimer}}'s Disease}
+      \field{volume}{48}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{117\bibrangedash 130}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.media.2018.06.001
+      \endverb
+      \keyw{Alzheimerâ€™s disease,Autism Spectrum Disorder,Graph convolutional networks,Graphs,Semi-supervised classification,Spectral theory}
+    \endentry
+    \entry{SALMAN2019101747}{article}{}
+      \name{author}{14}{}{%
+        {{hash=f4e5a919cceb4c1861f0102344e2bfab}{%
+           family={Salman},
+           familyi={S\bibinitperiod},
+           given={Mustafa\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9029415ecfdc2000c9405cc980a654c4}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Yuhui},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d951ce8343a2dcbd3b164ba776189828}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Dongdong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=86ab39ba7a9359e92cacfa32a58e0f11}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Zening},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=148242e024deee69d28f2eff6ff6c18f}{%
+           family={Fedorov},
+           familyi={F\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=76e00eacec84693b98f1add1e907800d}{%
+           family={Damaraju},
+           familyi={D\bibinitperiod},
+           given={Eswar},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e0547ba05f460a39f0d8a6cc3bfa2d1c}{%
+           family={Sui},
+           familyi={S\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=72bf8b2616c173d3477e4806536f1ef7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b4e88fa3f33e9535615ef7fc6aa50e95}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=701627d90675cba40ce4fd468f8ab628}{%
+           family={Posse},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7897763b3f82d813f3112ecc3ab028c4}{%
+           family={Mathalon},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3ca579b5ca55e37526b212b11f2ab9d3}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Judith\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7b9b1682cc41c805f69292f6776b0a8b}{%
+           family={Van\bibnamedelima Erp},
+           familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Theodorus},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c7172dd45e3be68cbaaa4b3985f2e733}{%
+           family={Calhoun},
+           familyi={C\bibinitperiod},
+           given={Vince\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd9a28357770354f8dc226957fbb9e01}
+      \strng{fullhash}{2f409685ff45b9ec2bd3638fce900d20}
+      \strng{bibnamehash}{bd9a28357770354f8dc226957fbb9e01}
+      \strng{authorbibnamehash}{bd9a28357770354f8dc226957fbb9e01}
+      \strng{authornamehash}{bd9a28357770354f8dc226957fbb9e01}
+      \strng{authorfullhash}{2f409685ff45b9ec2bd3638fce900d20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brain functional networks identified from fMRI data can provide potential biomarkers for brain disorders. Group independent component analysis (GICA) is popular for extracting brain functional networks from multiple subjects. In GICA, different strategies exist for reconstructing subject-specific networks from the group-level networks. However, it is unknown whether these strategies have different sensitivities to group differences and abilities in distinguishing patients. Among GICA, spatio-temporal regression (STR) and spatially constrained ICA approaches such as group information guided ICA (GIG-ICA) can be used to propagate components (indicating networks) to a new subject that is not included in the original subjects. In this study, based on the same a priori network maps, we reconstructed subject-specific networks using these two methods separately from resting-state fMRI data of 151 schizophrenia patients (SZs) and 163 healthy controls (HCs). We investigated group differences in the estimated functional networks and the functional network connectivity (FNC) obtained by each method. The networks were also used as features in a cross-validated support vector machine (SVM) for classifying SZs and HCs. We selected features using different strategies to provide a comprehensive comparison between the two methods. GIG-ICA generally showed greater sensitivity in statistical analysis and better classification performance (accuracy 76.45 {$\pm$} 8.9\%, sensitivity 0.74 {$\pm$} 0.11, specificity 0.79 {$\pm$} 0.11) than STR (accuracy 67.45 {$\pm$} 8.13\%, sensitivity 0.65 {$\pm$} 0.11, specificity 0.71 {$\pm$} 0.11). Importantly, results were also consistent when applied to an independent dataset including 82 HCs and 82 SZs. Our work suggests that the functional networks estimated by GIG-ICA are more sensitive to group differences, and GIG-ICA is promising for identifying image-derived biomarkers of brain disease.}
+      \field{issn}{2213-1582}
+      \field{journaltitle}{NeuroImage: Clinical}
+      \field{title}{Group {{ICA}} for Identifying Biomarkers in Schizophrenia: `{{Adaptive}}' Networks via Spatially Constrained {{ICA}} Show More Sensitivity to Group Differences than Spatio-Temporal Regression}
+      \field{volume}{22}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{101747}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2019.101747
+      \endverb
+      \keyw{Classification,fMRI,Functional network,GIG-ICA,ICA,Schizophrenia,Spatio-temporal regression}
+    \endentry
+    \entry{10.1007/978-3-319-93417-4_38}{inproceedings}{useprefix=true}
+      \name{author}{6}{}{%
+        {{hash=653a93a6069abd943896a037bb99fda3}{%
+           family={Schlichtkrull},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=26d8bcbda6afaf96334bf47c8fb88a75}{%
+           family={Kipf},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ce81cf506005b442900420d22686bf9c}{%
+           family={Bloem},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2e539e2ef093fd4fb83f6961292d598a}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Rianne},
+           giveni={R\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=38c1cf91413109beb40bd024b86e0969}{%
+           family={Titov},
+           familyi={T\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=53d2880ad8047b61cdae2c6b2803e763}{%
+           family={Welling},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{8}{}{%
+        {{hash=f538e9d958b26480c59fcc1e5a3cfa57}{%
+           family={Gangemi},
+           familyi={G\bibinitperiod},
+           given={Aldo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6fe24dce481a67e247581d4b20435709}{%
+           family={Navigli},
+           familyi={N\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7690d7bd760c8039dc1ab142ff7c067b}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria-Esther},
+           giveni={M\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=6c91a433a7cc7ab507b9bd279fa64cac}{%
+           family={Hitzler},
+           familyi={H\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=822e30ffd826c605a06531c98d000312}{%
+           family={Troncy},
+           familyi={T\bibinitperiod},
+           given={Raphaël},
+           giveni={R\bibinitperiod}}}%
+        {{hash=17775f39c44df38359785e023f4708ac}{%
+           family={Hollink},
+           familyi={H\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=64538ab9587397f8bd848acf7e40d086}{%
+           family={Tordai},
+           familyi={T\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dcb51233f87c9d1e1807502ca40ab070}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Mehwish},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{05032b76ffa399ba742b5e9ea6655a09}
+      \strng{fullhash}{15362561d3f5a77443ba69390ebd7580}
+      \strng{bibnamehash}{05032b76ffa399ba742b5e9ea6655a09}
+      \strng{authorbibnamehash}{05032b76ffa399ba742b5e9ea6655a09}
+      \strng{authornamehash}{05032b76ffa399ba742b5e9ea6655a09}
+      \strng{authorfullhash}{15362561d3f5a77443ba69390ebd7580}
+      \strng{editorbibnamehash}{ec9fef365dedc6ef951936fef4a3ec40}
+      \strng{editornamehash}{ec9fef365dedc6ef951936fef4a3ec40}
+      \strng{editorfullhash}{48ddfbb3c16aa9cbb2196e17c75c8c53}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowledge graphs enable a wide variety of applications, including question answering and information retrieval. Despite the great effort invested in their creation and maintenance, even the largest (e.g., Yago, DBPedia or Wikidata) remain incomplete. We introduce Relational Graph Convolutional Networks (R-GCNs) and apply them to two standard knowledge base completion tasks: Link prediction (recovery of missing facts, i.e. subject-predicate-object triples) and entity classification (recovery of missing entity attributes). R-GCNs are related to a recent class of neural networks operating on graphs, and are developed specifically to handle the highly multi-relational data characteristic of realistic knowledge bases. We demonstrate the effectiveness of R-GCNs as a stand-alone model for entity classification. We further show that factorization models for link prediction such as DistMult can be significantly improved through the use of an R-GCN encoder model to accumulate evidence over multiple inference steps in the graph, demonstrating a large improvement of 29.8\% on FB15k-237 over a decoder-only baseline.}
+      \field{booktitle}{The Semantic Web}
+      \field{isbn}{978-3-319-93417-4}
+      \field{title}{Modeling Relational Data with Graph Convolutional Networks}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{593\bibrangedash 607}
+      \range{pages}{15}
+    \endentry
+    \entry{VANESSEN201362}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f246a8ef87257e3289dbf5a27efcf2f0}{%
+           family={Van\bibnamedelima Essen},
+           familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1b067e83d2e7008cdc1841a1e60c00b5}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7cfa4ddc13b0da527952f57f52dbd60e}{%
+           family={Barch},
+           familyi={B\bibinitperiod},
+           given={Deanna\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c946e197e64894a34f519dac9275ae75}{%
+           family={Behrens},
+           familyi={B\bibinitperiod},
+           given={Timothy\bibnamedelima E.J.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=138795d93758afeaa2a0a01bb6bfb4df}{%
+           family={Yacoub},
+           familyi={Y\bibinitperiod},
+           given={Essa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bc462df9ca0202de54413b81d77da857}{%
+           family={Ugurbil},
+           familyi={U\bibinitperiod},
+           given={Kamil},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{44c80a0b62a924ee765b1e9dd22d006e}
+      \strng{fullhash}{561c4e4a6d97849b37214526de8acfd8}
+      \strng{bibnamehash}{44c80a0b62a924ee765b1e9dd22d006e}
+      \strng{authorbibnamehash}{44c80a0b62a924ee765b1e9dd22d006e}
+      \strng{authornamehash}{44c80a0b62a924ee765b1e9dd22d006e}
+      \strng{authorfullhash}{561c4e4a6d97849b37214526de8acfd8}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Human Connectome Project consortium led by Washington University, University of Minnesota, and Oxford University is undertaking a systematic effort to map macroscopic human brain circuits and their relationship to behavior in a large population of healthy adults. This overview article focuses on progress made during the first half of the 5-year project in refining the methods for data acquisition and analysis. Preliminary analyses based on a finalized set of acquisition and preprocessing protocols demonstrate the exceptionally high quality of the data from each modality. The first quarterly release of imaging and behavioral data via the ConnectomeDB database demonstrates the commitment to making HCP datasets freely accessible. Altogether, the progress to date provides grounds for optimism that the HCP datasets and associated methods and software will become increasingly valuable resources for characterizing human brain connectivity and function, their relationship to behavior, and their heritability and genetic underpinnings.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{title}{The {{WU-Minn}} Human Connectome Project: {{An}} Overview}
+      \field{volume}{80}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{62\bibrangedash 79}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2013.05.041
+      \endverb
+    \endentry
+    \entry{Venkataraman2016BayesianCD}{article}{}
+      \name{author}{4}{}{%
+        {{hash=da111382d89695b691060c3592a4f427}{%
+           family={Venkataraman},
+           familyi={V\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8f6a5c9181c406c9a5bcb2a566aec7b7}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Daniel\bibnamedelima Y.-J.},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=68a9c5b177125392d90a7001850e5abd}{%
+           family={Pelphrey},
+           familyi={P\bibinitperiod},
+           given={Kevin\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{662d842c2aab6ca2dea6b2e4e9853103}
+      \strng{fullhash}{8157ecfc567b4f337fcc35698c9f47b0}
+      \strng{bibnamehash}{662d842c2aab6ca2dea6b2e4e9853103}
+      \strng{authorbibnamehash}{662d842c2aab6ca2dea6b2e4e9853103}
+      \strng{authornamehash}{662d842c2aab6ca2dea6b2e4e9853103}
+      \strng{authorfullhash}{8157ecfc567b4f337fcc35698c9f47b0}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{title}{Bayesian Community Detection in the Space of Group-Level Functional Differences}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1866\bibrangedash 1882}
+      \range{pages}{17}
+    \endentry
+    \entry{WEN2022105239}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6c755f48ae2a868c807fefb95625bfe9}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Guangqi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0f0e8ca6c478e9456256256b1deae504}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c374f11e8e49945648b69d627ac2cb98}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Huiwen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1025fad2b0b92cae6345b79977947c7c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wenju},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9ecccf6b181c108bd8fbe91b388a6310}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Tong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3eb124911be881083fa8fb27c9295720}{%
+           family={Zaiane},
+           familyi={Z\bibinitperiod},
+           given={Osmar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{f74a905cb77d1825b9d83ef65ee7e0d1}
+      \strng{fullhash}{df52190964048bd2e22b292507221d6f}
+      \strng{bibnamehash}{f74a905cb77d1825b9d83ef65ee7e0d1}
+      \strng{authorbibnamehash}{f74a905cb77d1825b9d83ef65ee7e0d1}
+      \strng{authornamehash}{f74a905cb77d1825b9d83ef65ee7e0d1}
+      \strng{authorfullhash}{df52190964048bd2e22b292507221d6f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose Recently, functional brain networks (FBN) have been used for the classification of neurological disorders, such as Autism Spectrum Disorders (ASD). Neurological disorder diagnosis with FBN is a challenging task due to the high heterogeneity in subjects and the noise correlations in brain networks. Meanwhile, it is challenging for the existing deep learning models to provide interpretable insights into the brain network. We propose a machine learning approach for the classification of neurological disorders while providing an interpretable framework. Method In this paper, we build upon graph neural network in order to learn effective representations for brain networks in an end-to-end fashion. Specifically, we present a prior brain structure learning-guided multi-view graph convolutional neural network (MVS-GCN), which collaborates the graph structure learning and multi-task graph embedding learning to improve the classification performance and identify the potential functional subnetworks. Results To demonstrate the effectiveness of our approach, we evaluate the performance of the proposed method on the Autism Brain Imaging Data Exchange (ABIDE) dataset and Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset. The experimental results indicate that our MVS-GCN can achieve enhanced performance compared with state-of-the-art methods. Notably, MVS-GCN achieves an average accuracy/AUC of 69.38\%/69.01\% on the ABIDE dataset. Moreover, the obtained results from our model show high consistency with the previous neuroimaging derived evidence of within and between-networks biomarkers for ASD. The discovered subnetworks are used as evidence for the proposed MVS-GCN model. Conclusion The proposed MVS-GCN method performs a graph embedding learning from the multi-views graph embedding learning perspective while considering eliminating the heterogeneity in brain networks and enhancing the feature representation of functional subnetworks, which can capture the essential embeddings to improve the classification performance of brain disorder diagnosis. The code is available at https://github.com/GuangqiWen/MVS-GCN.}
+      \field{issn}{0010-4825}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{title}{{{MVS-GCN}}: {{A}} Prior Brain Structure Learning-Guided Multi-View Graph Convolution Network for Autism Spectrum Disorder Diagnosis}
+      \field{volume}{142}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{105239}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compbiomed.2022.105239
+      \endverb
+      \keyw{Autism spectrum disorder,Brain network,Graph classification,Graph convolutional network}
+    \endentry
+    \entry{10.1145/3292500.3330921}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=fa69cdddd1bf666f07365d4251bebfaa}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yujun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3129ba254ab0bba2213b4d1687dd9ad5}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jiong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e983d7ac1e8a6a968a4e302454eadd0}{%
+           family={Duda},
+           familyi={D\bibinitperiod},
+           given={Marlena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12b741ad049b1443e1f69b764d2c7011}{%
+           family={Solarz},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=01b18cf524cb441d03f07ea9358c4531}{%
+           family={Sripada},
+           familyi={S\bibinitperiod},
+           given={Chandra},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b8b397a632f3ed91f239f0c6508724c2}{%
+           family={Koutra},
+           familyi={K\bibinitperiod},
+           given={Danai},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5bcef0e21288fc414cb8b1c720bb1d6b}
+      \strng{fullhash}{f7dd812fcbfd6776b7d1bbfa9fafcf58}
+      \strng{bibnamehash}{5bcef0e21288fc414cb8b1c720bb1d6b}
+      \strng{authorbibnamehash}{5bcef0e21288fc414cb8b1c720bb1d6b}
+      \strng{authornamehash}{5bcef0e21288fc414cb8b1c720bb1d6b}
+      \strng{authorfullhash}{f7dd812fcbfd6776b7d1bbfa9fafcf58}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mapping the human brain, or understanding how certain brain regions relate to specific aspects of cognition, has been and remains an active area of neuroscience research. Functional magnetic resonance imaging (fMRI) data---in the form of images, time series or graphs---are central in this research, but pose many challenges in phenotype prediction tasks (e.g., noisy, small training samples). Standardly employed handcrafted models and newly proposed neural network methods pose limitations in the expressive power and interpretability, respectively, in this context. In this work focusing on fMRI-derived brain graphs, a modality that partially handles some challenges of fMRI data, we propose a grouping-based interpretable neural network model, GroupINN, that effectively classifies cognitive performance with 85\% fewer model parameters than baseline deep models, while also identifying the most predictive brain subnetworks within several task-specific contexts. Our method incorporates the idea of node grouping into the design of the neural network. That way, unlike other methods that employ clustering as a preprocessing step to reorder nodes, GroupINN learns the node grouping and extracts graph features jointly. Experiments on task-based fMRI datasets show that our method is 2.6-69times faster than other deep models, while achieving comparable or better accuracy and providing interpretability.}
+      \field{booktitle}{Proceedings of the 25th {{ACM SIGKDD}} International Conference on Knowledge Discovery; Data Mining}
+      \field{isbn}{978-1-4503-6201-6}
+      \field{pagetotal}{11}
+      \field{series}{{{KDD}} '19}
+      \field{title}{{{GroupINN}}: {{Grouping-based}} Interpretable Neural Network for Classification of Limited, Noisy Brain Data}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{772\bibrangedash 782}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/3292500.3330921
+      \endverb
+      \keyw{fmri,functional graph,graph neural network,interpretable,node grouping}
+    \endentry
+    \entry{10.1007/978-3-030-32248-9_89}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=b62a728a490f687c1f7a3db4511cceec}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huzheng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=37697d3d993a137f48bbe18ad1fa9cb3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=75764e3c8bb89c93952d1fc0aff4d209}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yifan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b51f1dad5b3cb28a78711e67a2b59b9a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Siyi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1e7063f79ff0f1c0867ac9decbeaa9be}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Su},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3abcfdeb1c243a3001f4f457389e7c36}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dfc9247080478babae33740cfb0199db}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=35f5bc295c6d5f206c6b7561e9659b52}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{8}{}{%
+        {{hash=4be3a7080769a01b5a9027ae92b8c440}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Dinggang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7faa75cd0a9341fee33d1761b2b44234}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tianming},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2e9e8ad6e5b81ddb8a49e01d8924307d}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Terry\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8e4eccef17cacd52453cc109b060cfd9}{%
+           family={Staib},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4470b51212e02d6d9992bacd48ee75df}{%
+           family={Essert},
+           familyi={E\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fb59119b1e852da0e1ae6ea7de32256e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b97a01ef9253fda170cb859e3263f3f3}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Pew-Thian},
+           giveni={P\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=31ee1db9c67b2817b746426d40e4c754}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{e42a25ff543921056ba7fbc9b4d3d59a}
+      \strng{fullhash}{9d895db6adf29fe305dfd4ee5b5b3dc9}
+      \strng{bibnamehash}{e42a25ff543921056ba7fbc9b4d3d59a}
+      \strng{authorbibnamehash}{e42a25ff543921056ba7fbc9b4d3d59a}
+      \strng{authornamehash}{e42a25ff543921056ba7fbc9b4d3d59a}
+      \strng{authorfullhash}{9d895db6adf29fe305dfd4ee5b5b3dc9}
+      \strng{editorbibnamehash}{b85860514c80840f3f8b271de4f23b4e}
+      \strng{editornamehash}{b85860514c80840f3f8b271de4f23b4e}
+      \strng{editorfullhash}{37fb9bfd986d300c074cd4c377abaf1a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bipolar Disorder (BP) is a mental disorder that affects 1--2\% of the population. Early diagnosis and targeted treatment can benefit from associated biological markers (biomarkers). The existing methods typically utilize biomarkers from anatomical MRI or functional BOLD imaging but lack the ability of revealing the relationship between integrated modalities and disease. In this paper, we developed an Edge-weighted Graph Attention Network (EGAT) with Dense Hierarchical Pooling (DHP), to better understand the underlying roots of the disorder from the view of structure-function integration. EGAT is an interpretable framework for integrating multi-modality features without loss of prediction accuracy. For the input, the underlying graph is constructed from functional connectivity matrices and the nodal features consist of both the anatomical features and the statistics of the connectivity. We investigated the potential benefits of using EGAT to classify BP vs. Healthy Control (HC), by examining the attention map and gradient sensitivity of nodal features. We indicated that associated with the abnormality of anatomical geometric properties, multiple interactive patterns among Default Mode, Fronto-parietal and Cingulo-opercular networks contribute to identifying BP.}
+      \field{booktitle}{Medical Image Computing and Computer Assisted Intervention --{} {{MICCAI}} 2019}
+      \field{isbn}{978-3-030-32248-9}
+      \field{title}{Interpretable Multimodality Embedding of Cerebral Cortex Using Attention Graph Network for Identifying Bipolar Disorder}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{799\bibrangedash 807}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

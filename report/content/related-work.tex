@@ -1,0 +1,17 @@
+\section{Related Work} \label{related_work}
+
+The work by Li et al. \cite{LI2021102233} is the continuation of Li et al. \cite{10.1007/978-3-030-59728-3_61}. In addition to \cite{10.1007/978-3-030-59728-3_61} in \cite{LI2021102233} a new graph convolutional layer is proposed and a new dataset is used for evaluation.
+
+In the recent past, Graph Neural Networks (GNN) have developed to the state-of-the-art method for graph based data science tasks.
+A GNN uses a graph (with node features, edge features, graph topology) as input for a neural network. GNNs are a generalization of Convolutional Neural Networks (CNN).
+The general applicability of GNNs was shown in various works, e.g. Kim and Ye \cite{10.3389/fnins.2020.00630},  Kazi et al. \cite{10.1007/978-3-030-20351-1_6}, Yan et al. \cite{10.1145/3292500.3330921}, Yang et al. \cite{10.1007/978-3-030-32248-9_89}, Gopinath et al. \cite{10.1007/978-3-030-20351-1_7} and Nandakumar et al. \cite{10.1007/978-3-030-32391-2_2}.
+
+Depending on the application domain of the GNNs the underlying graphs have different properties. For example in social networks or protein networks the nodes of different instances are not related. Therefore, in this case the same embeddings are used for different nodes. 
+Also for the analysis of fMRI images GNNs with the same embedding for different nodes are used. 
+This assumes, that the different parts of the brain behave similar. This is not the case. That is why the work by Li et al. \cite{LI2021102233} models the brain with different embeddings for each node.
+
+For the detection of biomarkers, there have been studies for group-level and individual-level biomarkers. Group-level biomarkers detect the common patterns of a specific disease and are explored by Li et al. \cite{10.1007/978-3-030-00931-1_24}, Venkataraman et al. \cite{Venkataraman2016BayesianCD}, Salman et al. \cite{SALMAN2019101747} and Yan et al. \cite{10.1145/3292500.3330921}. 
+Individual-level biomarker are examined by Brennan et al. \cite{BRENNAN201927}, Mahowald and Fedorenko \cite{MAHOWALD201674} and Li et al. \cite{10.1007/978-3-030-32254-0_54}. These biomarkers are specific for one patient and are the basis for precision medicine. 
+The work by Li et al. \cite{LI2021102233} investigates both, group-level and individual-level biomarkers.
+
+Another modeling question is, what the nodes and the whole graph represent. In Parisot et al. \cite{PARISOT2018117} and Kazi et al. \cite{10.1007/978-3-030-20351-1_6} each patient is one node in the graph. The work by Li et al. \cite{LI2021102233} constructs one graph for the brain of each patient.

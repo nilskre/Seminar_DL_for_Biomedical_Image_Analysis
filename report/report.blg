@@ -1,0 +1,27 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'report.blg'
+[86] biber:340> INFO - === Di Jun 14, 2022, 21:32:45
+[104] Biber.pm:415> INFO - Reading 'report.bcf'
+[194] Biber.pm:952> INFO - Found 24 citekeys in bib section 0
+[210] Biber.pm:4340> INFO - Processing section 0
+[221] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[226] bibtex.pm:1689> INFO - LaTeX decoding ...
+[291] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[292] Utils.pm:395> WARN - Duplicate entry key: '10.1007/978-3-030-20351-1_6' in file 'references.bib', skipping ...
+[676] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[676] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[676] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[676] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[700] bbl.pm:654> INFO - Writing 'report.bbl' with encoding 'latin1'
+[707] Utils.pm:395> WARN - The entry 'BRENNAN201927' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[709] Utils.pm:395> WARN - The entry 'https://doi.org/10.48550/arxiv.1811.01287' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[713] Utils.pm:395> WARN - The entry 'gaoSexDifferencesCerebellum2022' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[719] Utils.pm:395> WARN - The entry 'doi:10.1073/pnas.1010412107' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[728] Utils.pm:395> WARN - The entry '10.1007/978-3-030-00931-1_24' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[732] Utils.pm:395> WARN - The entry 'LI2021102233' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[737] Utils.pm:395> WARN - The entry '10.1007/978-3-030-32254-0_54' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[739] Utils.pm:395> WARN - The entry '10.1007/978-3-030-59728-3_61' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[758] Utils.pm:395> WARN - The entry '10.1145/3292500.3330921' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[765] Utils.pm:395> WARN - The entry '10.1007/978-3-030-32248-9_89' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[765] bbl.pm:757> INFO - Output to report.bbl
+[765] Biber.pm:128> INFO - WARNINGS: 11

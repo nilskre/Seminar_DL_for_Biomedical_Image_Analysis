@@ -1,0 +1,15 @@
+\section{Discussion} \label{analysis}
+
+%Limitations and future work
+The preprocessing steps from Li et al. \cite{LI2021102233} (all steps from fMRI imaging up to the construction of the functional graph) are one possible way, how this could be done. 
+In their work, they have used one brain parcellation atlas. For future work the usage of different brain parcellation atlases and the comparison of the results would be interesting. Furthermore, the authors regard an end-to-end training procedure, which extracts relevant features automatically from the fMRI imaging as part of the trained model as a challenging but promising direction for future work.
+
+The BrainGNN model can be further improved through a more detailed hyperparameter tuning. Moreover, more quantitative and theoretical studies are needed to fully understand the proposed graph convolutional layer.
+
+The results of BrainGNN can be improved by evaluating failure prediction cases to answer the question, if there are specific patterns, where the model always fails. 
+Finally, the whole proposed model could be tested on other datasets and problems.
+
+The work from Li et al. \cite{LI2021102233} was used in subsequent work as baseline for comparing results and as starting point for model architecture improvements.
+Lin et al. \cite{LIN2022102430} use the proposed BrainGNN from Li et al. \cite{LI2021102233} as a baseline for comparing their 3D-CNN architecture. As evaluation dataset they used a schizophrenia dataset. 
+Gao et al. \cite{gaoSexDifferencesCerebellum2022} built their work upon Li et al. \cite{LI2021102233} and apply the GNN to sex prediction and interpretation of the differences related to sex.
+Wen et al. \cite{WEN2022105239} propose an optimized GNN architecture and use the BrainGNN from Li et al. \cite{LI2021102233} among other approaches as baseline. 
